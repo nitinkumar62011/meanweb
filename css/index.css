@@ -11,3 +11,9 @@ hr{
     border-width: 5px;
     width: 5%;
 }
+.img{
+    background-color: #6e0909;
+}
+h1,h3:hover{
+    color:rgb(153, 39, 39);
+}

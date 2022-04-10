@@ -1,0 +1,32 @@
+body{
+    margin: 0px;
+}
+.top-container1{
+    background-color: #a84557;
+    height:200px;
+    width: 200px;
+    
+    
+    position:absolute;
+    
+}
+#div1{
+    background-color: #191b1b;
+    height:200px;
+    width: 200px;
+    
+    position:absolute;
+    left:200px;
+    top:200px;
+    
+}
+#div2{
+    background-color: #0aa912;
+    height:200px;
+    width: 200px;
+   
+    position:absolute;
+    left:400px;
+    top: 400px;
+    
+}
